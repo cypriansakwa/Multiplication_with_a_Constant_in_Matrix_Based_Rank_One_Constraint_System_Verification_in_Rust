@@ -1,0 +1,8 @@
+[package]
+name = "Multiplication_with_a_Constant_in_Matrix_Based_Rank_One_Constraint_System_Verification_in_Rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.9.0"
+ndarray = "0.16.1"
